@@ -6,8 +6,7 @@ f.close()
 f=open("myfile.txt")
 f.read()
 
-f=open("myfile.tx
-       t",'a')
+f=open("myfile.txt",'a')
 f.write("append this text")
 
 f=open("myfile.txt")
